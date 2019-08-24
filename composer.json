@@ -1,0 +1,30 @@
+{
+    "name": "sam016/PHPTextWrapper",
+    "description": "PHP text wrapper library inspired by python's textwrap",
+    "type": "library",
+    "authors": [
+        {
+            "name": "sam016",
+            "email": "varun@sam016.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "autoload-dev": {
+        "classmap": [
+            "tests/"
+        ]
+    },
+    "require": {
+        "php": "^7.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.3"
+    },
+    "scripts": {
+        "test": "phpunit --color=always"
+    }
+}

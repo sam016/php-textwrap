@@ -1,0 +1,16 @@
+{
+    "files.watcherExclude": {
+        "**/vendor/**": true
+    },
+    "search.exclude": {
+        "**/vendor/**": true
+    },
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "xmlTools.splitAttributesOnFormat": true,
+    "explorer.autoReveal": false,
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}

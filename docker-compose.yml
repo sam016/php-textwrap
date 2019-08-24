@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  cli:
+    build:
+      context: .
+      dockerfile: .docker/Dockerfile
+    image: textwrap-php-cli
+    environment:
+       XDEBUG_CONFIG: "idekey=vscode"
+    volumes:
+      - .:/code/
