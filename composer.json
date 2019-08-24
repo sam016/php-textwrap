@@ -1,6 +1,6 @@
 {
-    "name": "sam016/PHPTextWrapper",
-    "description": "PHP text wrapper library inspired by python's textwrap",
+    "name": "sam016/php-textwrap",
+    "description": "PHP TextWrap library inspired by python's argparse",
     "type": "library",
     "authors": [
         {
