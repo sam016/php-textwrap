@@ -8,6 +8,7 @@
             "email": "varun@sam016.com"
         }
     ],
+    "license": "MIT",
     "autoload": {
         "classmap": [
             "src/"
