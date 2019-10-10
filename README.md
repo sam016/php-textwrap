@@ -60,5 +60,5 @@ Guidelines for raising the bugs:
     - reproduction steps
     - library version
     - php version
-    - crystal clear description
+    - crystal clear description about issue
     - did it just get too much?
