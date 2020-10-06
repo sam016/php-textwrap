@@ -11,7 +11,7 @@
 
 ## Introduction
 
-**php-textwrap** is the library inspired by [Python](https://docs.python.org/)'s [argparse](https://docs.python.org/3.1/library/textwrap.html)
+**php-textwrap** is the library inspired by [Python](https://docs.python.org/)'s [textwrap](https://docs.python.org/3.1/library/textwrap.html)
 
 ## Requirements
 
